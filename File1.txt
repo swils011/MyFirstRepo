@@ -11,3 +11,4 @@ Writing out line 3
 Writing out line 4
 Writing out line 5
 Writing out line 6
+Writing out line 7
